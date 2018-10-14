@@ -25,7 +25,7 @@ The code available here is based on `Body-Basics` and merely creates a visual ef
 **Python** [https://github.com/Kinect/PyKinect2](https://github.com/Kinect/PyKinect2)
 
 ### Windows Presentation Foundation (WPF)
-If you are building your application based on the C# samples, most of the use WPF for drawing on the screen. WPF's API is quite involved and doing basic operations might be cumbersome. The links below introduce basic concepts as well as some more advanced ones:
+If you are building your application based on the C# samples, most of them use WPF for drawing on the screen. WPF's API is quite involved and doing basic operations such as reusing a drawing or drawing several points might be time consuming for the developer and cpu-intensive. The links below introduce basic concepts as well as some more advanced ones:
 
 **Microsoft Docs' WPF overview** [https://docs.microsoft.com/en-us/dotnet/framework/wpf/graphics-multimedia/shapes-and-basic-drawing-in-wpf-overview](https://docs.microsoft.com/en-us/dotnet/framework/wpf/graphics-multimedia/shapes-and-basic-drawing-in-wpf-overview)
 
