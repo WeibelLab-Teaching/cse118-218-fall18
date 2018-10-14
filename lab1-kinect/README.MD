@@ -1,8 +1,10 @@
 # CSE 118 - Lab #1 - Microsoft Kinect
 
 In this lab, we covered Microsoft Kinect v2 SDK basics.
-Introductory slides are available here:
-The video recording is available here:
+
+Introductory slides are available here: [Google Slides](https://docs.google.com/presentation/d/1441h1RghkWQKgf95WhmG4nkE4r1P-AN8f5OLP6Pyrh8/edit?usp=sharing)
+
+The video recording is available here: [Youtube](https://www.youtube.com/watch?v=ofWCjghd6s4)
 
 
 ## Screenshot
