@@ -2,7 +2,7 @@ This is the main repository for CSE118/218 (FALL18) labs. The table below contai
 
 | Week | Subject            | Link |
 |------|--------------------|------|
-| 2    | Kinect             | [Lab 1 - Kinect](lab1-kinect)     |
+| 2    | Kinect             | [Lab 1 - Kinect](lab1-kinect/README.MD)     |
 | 3    | Microsoft HoloLens |      |
 | 4    | Tobii Eye Tracker  |      |
 | 5    | TBD                |      |
